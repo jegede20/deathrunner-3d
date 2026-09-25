@@ -1,0 +1,4 @@
+# itch.io butler manifest — optional, for `butler push`
+[[actions]]
+name = "play"
+path = "index.html"
