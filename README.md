@@ -8,7 +8,7 @@ One HTML file. No build step, no dependencies, no frameworks, no WebGL — the e
 
 ### **[▶ Play it live](https://deathrunner-3d.vercel.app/)**
 
-[Classic 2D version](https://deathrunner-3d.vercel.app/classic-2d.html) · [Source](https://github.com/jegede20/deathrunner-3d)
+[Classic 2D version](https://deathrunner-3d.vercel.app/classic-2d) · [Source](https://github.com/jegede20/deathrunner-3d)
 
 ---
 
