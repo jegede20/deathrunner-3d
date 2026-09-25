@@ -6,7 +6,9 @@
 
 One HTML file. No build step, no dependencies, no frameworks, no WebGL — the entire 3D engine is hand-written on a 2D canvas.
 
-**[▶ Play it](index.html)** · [Classic 2D version](classic-2d.html)
+### **[▶ Play it live](https://deathrunner-3d.vercel.app/)**
+
+[Classic 2D version](https://deathrunner-3d.vercel.app/classic-2d.html) · [Source](https://github.com/jegede20/deathrunner-3d)
 
 ---
 
